@@ -93,3 +93,8 @@ if age >= 20:
         print("X")
 else:
     print("age X")
+
+# 삼항 연산자
+a = 100
+b = 1000
+print("B is bigger") if b > a else print("A is bigger")
